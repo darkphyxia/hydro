@@ -1,0 +1,17 @@
+{
+  "name": "wpsh",
+  "version": "1.0.0",
+  "description": "Using WhatsApp API for terminal notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "@open-wa/wa-automate": "^4.28.10",
+    "baileys": "^1.1.1",
+    "ecmascript": "^1.0.0"
+  }
+}
